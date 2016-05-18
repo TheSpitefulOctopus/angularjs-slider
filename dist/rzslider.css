@@ -210,7 +210,7 @@ rzslider.rz-vertical .rz-bar {
 rzslider.rz-vertical .rz-pointer {
   top: auto;
   bottom: 0;
-  left: -14px !important;
+  left: -14px; /* removed !important */
 }
 
 rzslider.rz-vertical .rz-bubble {
